@@ -35,6 +35,7 @@ body {
 
     background: url('../assets/home-background.svg') no-repeat;
     background-position: 35vw bottom;
+    background-size: 50%;
 }
 
 #page-home .content {
