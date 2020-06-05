@@ -1,0 +1,124 @@
+
+@media (max-width: 900px) {
+    #page-home {
+        background-position-x: 70vw;
+    }
+
+    #page-home .content {
+        align-items: center;
+        text-align: center;
+    }
+
+    #page-home header a {
+        position: absolute;
+        bottom: 48px;
+
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #page-home main {
+        align-items: center;
+    }
+
+    #page-search-results .cards {
+        grid-template-columns: 1fr;
+    }
+
+    #page-search-results .cards img {
+        height: 250px
+    }
+
+    #page-create-point .field-group {
+        flex-direction: column;
+    }
+
+    #page-create-point .field-group .field + .field {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 1700px) {
+    #page-home {
+        background-position-x: 40vw;
+    }
+}
+
+@media (max-height: 760px) {
+    #page-home {
+        background-position-y: 200px;
+    }
+}
+
+@media (max-width: 500px) {
+    .items-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 16px;  
+    }
+
+    #page-home {
+        background: none;
+    }
+}
+
+
+@media (max-width: 700px) {
+    .items-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 16px;  
+    }
+
+    #page-home main h1 {
+        font-size: 30px;
+    }
+
+    #page-home main p {
+        font-size: 18px;
+    }
+
+    #page-home main a {
+        margin-top: 8px;
+        width: 60%;
+    }
+}
+
+@media (max-width: 1400px) {
+    #page-home  {
+        background-position: 35vw 200px;
+    }
+
+    #page-home main h1 {
+        font-size: 50px;
+    }
+
+    #page-home main p {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 600px) {
+    #page-home {
+        background: none;
+    }
+
+    .items-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 16px;  
+    }
+
+    #page-home main h1 {
+        font-size: 30px;
+    }
+
+    #page-home main p {
+        font-size: 18px;
+    }
+
+    #page-home main a {
+        margin-top: 8px;
+        width: 60%;
+    }
+}

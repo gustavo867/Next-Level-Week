@@ -1,0 +1,28 @@
+{
+  "name": "next-level-week",
+  "version": "1.0.0",
+  "description": "![image](https://user-images.githubusercontent.com/63013756/83443019-73aed300-a41f-11ea-91c8-46b29bc76b07.png)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavo867/Next-Level-Week.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavo867/Next-Level-Week/issues"
+  },
+  "homepage": "https://github.com/gustavo867/Next-Level-Week#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
