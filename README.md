@@ -1,4 +1,5 @@
 ## NEXT LEVEL WEEK STARTER
+<img  width="1000" src="https://user-images.githubusercontent.com/63013756/83920572-e76c1b00-a752-11ea-919f-e4711db6d06d.png"></img>
  - Ministrada pelo Mayk Brito da Rocketseat ❤️
 
 ## TECNOLOGIAS UTILIZADAS 🚀
@@ -11,9 +12,9 @@
 - SQL
 
 ## Página principal Responsiva
-![image](https://user-images.githubusercontent.com/63013756/83920572-e76c1b00-a752-11ea-919f-e4711db6d06d.png)
+<img width="400" src="https://user-images.githubusercontent.com/63013756/83920593-f2bf4680-a752-11ea-9d47-945da28185a5.png"></img>
 
-![image](https://user-images.githubusercontent.com/63013756/83920593-f2bf4680-a752-11ea-9d47-945da28185a5.png)
+
 
 ## Cadastro de um ponto de coleta
 ![image](https://user-images.githubusercontent.com/63013756/83920649-15e9f600-a753-11ea-87c3-df8bc49f7237.png)
